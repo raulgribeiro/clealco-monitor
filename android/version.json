@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.18",
-  "sha256": "f903e6767d34170f5cc1607626fef2b115f58656a8eabf3235b197fadbe4df19",
-  "notas": "Atualização pelo ar (OTA) ativa. Painel do equipamento no Ferti pode ser baixado."
+  "versionCode": 21,
+  "versionName": "1.19",
+  "sha256": "4368e442716f22e129067334c4ba6a4c8ef1637537450201c71b53fae94c3840",
+  "notas": "Botão Atualizar na tela inicial."
 }
