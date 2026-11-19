@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.19",
-  "sha256": "4368e442716f22e129067334c4ba6a4c8ef1637537450201c71b53fae94c3840",
-  "notas": "Botão Atualizar na tela inicial."
+  "versionCode": 23,
+  "versionName": "1.20",
+  "sha256": "7a2171bc7484b28dad28dd4361dcaf1ddcb965a4b813c3cc717f1b944efb32b0",
+  "notas": "App Monitor: nome novo e perfil universal (sem dados da usina)."
 }
