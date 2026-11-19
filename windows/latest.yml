@@ -1,8 +1,8 @@
-version: 1.19.0
+version: 1.20.0
 files:
-  - url: Clealco-Monitor-Setup-1.19.0.exe
-    sha512: iFkTfx59MwXAC+sTJ9V4JVsVjwMj8sdEYFkwzV/AYB6w2rEdf+FCEnmo6eocNpS2QYawJhKg/z4Yj9Kla3Tw/A==
-    size: 90624635
-path: Clealco-Monitor-Setup-1.19.0.exe
-sha512: iFkTfx59MwXAC+sTJ9V4JVsVjwMj8sdEYFkwzV/AYB6w2rEdf+FCEnmo6eocNpS2QYawJhKg/z4Yj9Kla3Tw/A==
-releaseDate: '2026-11-13T12:14:16.285Z'
+  - url: App-Monitor-Setup-1.20.0.exe
+    sha512: SjzVnHoL6TRMQQMowu6bPvsFjRHQjuxk63IBhskjnP9COY9hIcLqGaqb2WDUQlYH4c8ReOBSuIRUf9RNBiWwIg==
+    size: 90626487
+path: App-Monitor-Setup-1.20.0.exe
+sha512: SjzVnHoL6TRMQQMowu6bPvsFjRHQjuxk63IBhskjnP9COY9hIcLqGaqb2WDUQlYH4c8ReOBSuIRUf9RNBiWwIg==
+releaseDate: '2026-11-19T11:34:21.762Z'
